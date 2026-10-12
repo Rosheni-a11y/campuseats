@@ -1,0 +1,20 @@
+# Node / frontend
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+*.local
+
+# .NET / backend
+backend/bin
+backend/obj
+backend/appsettings.Development.json
+
+# Secrets
+.env
+.env.*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
